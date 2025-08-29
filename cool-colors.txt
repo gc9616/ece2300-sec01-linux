@@ -1,4 +1,1 @@
-blue
-green
-purple
-
+add cyan
